@@ -2,7 +2,7 @@
 import pandas as pd
 import numpy as np
 from numpy import exp, log
-import regex as re
+
 from scipy.stats import zscore, skew, kurtosis
 from sklearn.preprocessing import  Normalizer, StandardScaler, MinMaxScaler
 # loading essentials libraries
