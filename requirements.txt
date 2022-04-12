@@ -8,4 +8,4 @@ Image
 nolds
 kneed
 numpy
-PIL
+
