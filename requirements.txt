@@ -1,0 +1,11 @@
+scipy
+streamlit
+pandas
+sklearn
+matplotlib
+seaborn
+collections
+nolds
+kneed
+numpy
+PIL
