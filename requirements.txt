@@ -4,7 +4,7 @@ pandas
 sklearn
 matplotlib
 seaborn
-
+Image
 nolds
 kneed
 numpy
