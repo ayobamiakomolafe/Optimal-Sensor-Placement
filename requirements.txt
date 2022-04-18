@@ -2,7 +2,7 @@ scipy
 
 pandas
 sklearn
-matplotlib
+matplotlib==3.2.2
 seaborn
 Image
 nolds
