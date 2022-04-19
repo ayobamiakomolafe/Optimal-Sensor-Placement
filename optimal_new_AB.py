@@ -74,7 +74,9 @@ class optimal_sensor ():
         '''
         functon that fills missing values in data
         '''
-        data.fillna(data.median(), inplace = True)
+        # data.fillna(data.median(), inplace = True)
+        data.dropna(inplace = True)
+        
 
         return data
     
